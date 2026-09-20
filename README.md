@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development projects using MERN Stack<br><br>👯 I’m looking to collaborate on Web Development, UI/UX Design, and AI/ML projects<br><br>🤝 I’m looking for help with Open Source Contributions and Advanced System Design<br><br>🌱 I’m currently learning Next.js, Spring Boot, and Deep Learning<br><br>💬 Ask me about React.js, UI/UX Design, MERN Stack, JavaScript, and Research Projects<br><br>⚡ Fun fact: I’ve published 3 research papers and love turning ideas into real-world digital products
+💻 Currently working as a Java Developer<br><br>🚀 Building scalable Java, Spring Boot & Full-Stack applications<br><br>🎨 Passionate about UI/UX Design and modern web development<br><br>🌱 Continuously learning Next.js, MERN Stack & AI/ML
 
 
 ## 🌐 Socials:
